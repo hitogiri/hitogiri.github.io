@@ -1,7 +1,10 @@
 import React, { Component } from "react";
 import ProjectDetailsModal from "./ProjectDetailsModal";
+import { tsParticles } from "tsparticles";
 
 class Projects extends Component {
+
+
   constructor(props) {
     super(props);
     this.state = {
@@ -26,6 +29,7 @@ class Projects extends Component {
             style={{ cursor: "pointer" }}
           >
             <span className="portfolio-item d-block">
+
               <div className="foto" onClick={() => detailsModalShow(projects)}>
                 <div>
                   <img
@@ -34,6 +38,7 @@ class Projects extends Component {
                     height="230"
                     style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}
                   />
+
                   <span className="project-date">{projects.startDate}</span>
                   <br />
                   <p className="project-title-settings mt-3">
@@ -54,7 +59,9 @@ class Projects extends Component {
             <span>{sectionName}</span>
           </h1>
           <div className="col-md-12 mx-auto">
-            <div className="row mx-auto">{projects}</div>
+            <div className="row mx-auto">
+             {projects}
+            </div>
           </div>
           <ProjectDetailsModal
             show={this.state.detailsModalShow}

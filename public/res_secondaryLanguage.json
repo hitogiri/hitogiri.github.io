@@ -1,116 +1,122 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Kedu :D",
+      "description": "Abum Obi.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Bànyéré",
+        "projects": "Oru ngo",
+        "skills": "Nka",
+        "experience": "Ahụmahụ"
       }
-    },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    },  "projects": [
+        {
+          "title": "Crwn-Clothing",
+          "startDate": "current",
+          "description": "This project has been one of the most complex applications that I have had the opportunity to work with. Firebase, Routing, Authentication, React, Redux, phew! I had to push myself to not only implememnt, but really understand everything I was dealing with here. I am currently building this website as a part of Andrei Neagoie of Zero to Mastery academy's brilliant course.",
+          "images": [
+            "images/portfolio/crwn-clothing/p1.jpg",
+            "images/portfolio/crwn-clothing/p2.jpg"
+          ],
+          "url": "https://github.com/hitogiri/crwn-clothing-",
+          "technologies": [
+            {
+              "class": "devicon-react-plain",
+              "name": "React"
+            },
+            {
+              "class": "devicon-redux-plain",
+              "name": "Redux"
+            },
+            {
+              "class": "devicon-sass-plain",
+              "name": "Sass"
+            }
+          ]
+        },
+        {
+          "title": "TinDog",
+          "startDate": "2022",
+          "description": "A website for all the dog lovers <3 ...literally! A very interesting dive into web design, coded as a tutorial for a course taught by Angela Yu",
+          "images": [
+            "images/portfolio/tindog/p1.jpg",
+            "images/portfolio/tindog/p2.jpg"
+          ],
+          "url": "https://github.com/hitogiri/TinDog",
+          "technologies": [
+            {
+              "class": "devicon-javascript-plain",
+              "name": "JavaScript"
+            },
+            {
+              "class": "devicon-bootstrap-plain",
+              "name": "Bootstrap"
+            }
+          ]
+        },
+        {
+          "title": "Simon Says",
+          "startDate": "2021",
+          "description": "A very fun little implementation of the classic Hasbro Simon Says game. Made with javascript, jQuery, and some CSS; I found this to be an interesting challenge put forth by Angela Yu from the London App Brewery",
+          "images": [
+            "images/portfolio/simon/p1.jpg",
+            "images/portfolio/simon/p2.jpg"
+          ],
+          "url": "https://github.com/hitogiri/Simon-Game",
+          "technologies": [
+            {
+              "class": "devicon-javascript-plain",
+              "name": "Javascript"
+            },
+            {
+              "class": "devicon-css3-plain",
+              "name": "CSS"
+            },
+            {
+              "class": "devicon-jquery-plain",
+              "name": "jQuery"
+            }
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "description": "Throughout my time as a web developer, I have learned to utilize my knowledge of the latest software and project application trends to better provide quality service while maintaining site applicability. I have planned website development and converted mock-ups into usable web pages using my knowledge of HTML, JavaScript, JSX, and CSS. I also routinely leverage the React JavaScript library to create dynamic websites and web applications.",
+          "company": "Freelance",
+          "title": "Front-End Web Developer",
+          "years": "08/2019 - Ugbu a ",
+          "mainTech": [
+            "React",
+            "JavaScript",
+            "Angular",
+            "Redux"
+          ],
+          "technologies": [
+            "React",
+            "REST API",
+            "HTML5",
+            "JavaScript",
+            "Bootstrap",
+            "CSS3/SCSS",
+            "jQuery"
+          ]
+        },
+        {
+          "description": "I like to think back on this period as when I \"cut my web-dev teeth\" so to speak. I Maintained full-time employment while educating myself on one of the most popular JavaScript libraries. At work I displayed superior oral communication skills and an ability to communicate effectively with both customers and colleagues. I was responsible for assisting the guests needs, and responding to their inquiries. My time in customer service fostered my ability to understand exigencies and address any and all concerns",
+          "company": "Pho Tai",
+          "title": "Self Taught React Student/ Shift Lead",
+          "years": "10/2017 - 11/2019",
+          "mainTech": [
+            "React"
+          ],
+          "technologies": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Communication",
+            "Teamwork",
+            "Leadership",
+            "Customer Service"
+          ]
+        }
+      ]
+    }

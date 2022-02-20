@@ -1,6 +1,6 @@
-body[data-theme="dark"] {  
+body[data-theme="dark"] {
 
-   @import '../src/scss/dark-slider.scss';
+   @import '../dark-slider.scss';
 
    .slider-tab {
       background-color: #8C8C8C;
@@ -89,7 +89,7 @@ body[data-theme="dark"] {
       .vertical-timeline-element-icon {
          background: #919191 !important;
       }
-      @media only screen and (max-width: 1169px) { 
+      @media only screen and (max-width: 1169px) {
          .vertical-timeline-element-date {
             color: black;
          }

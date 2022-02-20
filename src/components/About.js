@@ -26,8 +26,8 @@ class About extends Component {
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
                   <img
-                    height="250px"
-                    src={profilepic}
+                    height="215px"
+                    src= {profilepic}
                     alt="Avatar placeholder"
                   />
                   <Icon
@@ -49,7 +49,7 @@ class About extends Component {
             <div className="col-md-8 center">
               <div className="col-md-10">
                 <div className="card">
-                  <div className="card-header">
+                  <div className="card-header" >
                     <span
                       className="iconify"
                       data-icon="emojione:red-circle"
@@ -77,7 +77,7 @@ class About extends Component {
                     }}
                   >
                     <br />
-                    <span className="wave">{hello} :) </span>
+                    <span className="wave">{hello} </span>
                     <br />
                     <br />
                     {about}

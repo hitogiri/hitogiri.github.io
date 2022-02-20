@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #C8F9FF;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -90,11 +90,11 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #E7E5E1;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background: #E7E5E1;
 	height: 25px;
 }
 
@@ -108,7 +108,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #f6edd1;
 	overflow: hidden;
 }
 
@@ -127,7 +127,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #ffffff; //project pictures
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -176,7 +176,7 @@ header h1 {
 }
 
 .polaroid span {
-	background: #ffffff;
+	background: #daebed;
 	display: inline-block;
 	margin: 55px 75px 30px;
 	padding: 15px 15px 30px;
@@ -233,7 +233,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
+	background-color: #00B4D8 !important;
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -244,7 +244,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: #F9F5E9 !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -253,6 +253,10 @@ header h1 {
 .vertical-timeline-element-date {
 	padding: 0 !important;
 	margin: 0 !important;
+}
+
+#exp {
+	font-size: 110%;
 }
 
 @media only screen and (max-width: 1170px) {
@@ -264,7 +268,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-	background: white;
+	background: #FFFFFF;
 }
 
 .bars {
