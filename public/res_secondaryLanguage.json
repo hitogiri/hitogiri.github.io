@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Kedu :D",
-      "description": "Abum Obi.",
+      "description_header": "Ndewo ebe ahụ :D",
+      "description": "Abum Obi, onye Front-End Web Developer si Houston, Texas. Mgbe anaghị m ọrụ n'aka na mgbagwoju anya ma ọ bụ ihe ọma akwụkwọ, Ọ na-amasị m ịmụba nkà m n'usoro dị ka React, Angular, na Vue. Enwere m nkwenye siri ike na echiche \"Ị na-abụ nwa akwụkwọ mgbe niile, ọ dịghị mgbe ị bụ nna ukwu\", ya mere, ana m anabata ohere ọ bụla iji nwetakwuo ihe ọmụma m na ịmụta ihe ọhụrụ. Enwere m mmasị na ọdịdị dị ka m bụ nkà na ụzụ, ị nwere ike ịhụ m n'okpuru osisi n'oge m ohere.",
       "section_name": {
-        "about": "Bànyéré",
-        "projects": "Oru ngo",
+        "about": "gbasara m",
+        "projects": " oru ngo",
         "skills": "Nka",
-        "experience": "Ahụmahụ"
+        "experience": "ahụmahụ"
       }
     },  "projects": [
         {

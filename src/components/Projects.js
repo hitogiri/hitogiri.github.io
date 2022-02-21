@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import ProjectDetailsModal from "./ProjectDetailsModal";
-import { tsParticles } from "tsparticles";
 
 class Projects extends Component {
 
